@@ -4,6 +4,6 @@
 <p align="center">
   🚬 <strong>No More Tears </strong> — Ozzy Osbourne
   <br>
-  🎶 <em><a href="https://open.spotify.com/track/3tNSRcSLY1F8M0xtG2yBQq?si=c38ade87ff6545f7">. . .</a></em>
+  🎶 <em><a href=https://open.spotify.com/intl-de/track/7w6PJe5KBPyvuRYxFkPssC?si=7e60b81512434214>. . .</a></em>
 </p>
 
